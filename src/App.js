@@ -8,7 +8,7 @@ function App() {
    return (
     <div className="App">
      hloo
-     this is new
+     this is edit sankar and geethika
     </div>
   );
 }
